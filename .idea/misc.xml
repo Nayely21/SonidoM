@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/drawable/bg_fondoartis.xml" value="0.2295" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/drawable/bg_fondobios.xml" value="0.2295" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.216" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis1b.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis1e.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis1hp.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis1r.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis1s.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis2b.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis2b2.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis2e.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis2hp.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis2r.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis2s.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis3b.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis3e.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis3hp.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis3r.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis3s.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis4b.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis4e.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis4hp.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis4r.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis4s.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis5b.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis5e.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis5hp.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis5r.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artis5s.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artisbachata.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artiselectro.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artishiphop.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artisregueton.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_artissalsa.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_bachata.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_electro.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_hiphop.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_rap.xml" value="0.4" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_regueton.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/activity_salsas.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/artis1hp.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/artista1hp.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/content_artis1e.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/SonidoM/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sonidom" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SonidoM" >
+        <activity
+            android:name=".Artis1e"
+            android:exported="false" />
+        <activity
+            android:name=".Artis5s"
+            android:exported="false" />
+        <activity
+            android:name=".Artis4s"
+            android:exported="false" />
+        <activity
+            android:name=".Artis3s"
+            android:exported="false" />
+        <activity
+            android:name=".Artis2s"
+            android:exported="false" />
+        <activity
+            android:name=".Artis1s"
+            android:exported="false" />
+        <activity
+            android:name=".Artis5r"
+            android:exported="false" />
+        <activity
+            android:name=".Artis4r"
+            android:exported="false" />
+        <activity
+            android:name=".Artis3r"
+            android:exported="false" />
+        <activity
+            android:name=".Artis2r"
+            android:exported="false" />
+        <activity
+            android:name=".Artis1r"
+            android:exported="false" />
+        <activity
+            android:name=".Artis5e"
+            android:exported="false" />
+        <activity
+            android:name=".Artis4e"
+            android:exported="false" />
+        <activity
+            android:name=".Artis3e"
+            android:exported="false" />
+        <activity
+            android:name=".Artis2e"
+            android:exported="false" />
+        <activity
+            android:name=".Artis5b"
+            android:exported="false" />
+        <activity
+            android:name=".Artis4b"
+            android:exported="false" />
+        <activity
+            android:name=".Artis3b"
+            android:exported="false" />
+        <activity
+            android:name=".Artis2b"
+            android:exported="false" />
+        <activity
+            android:name=".Artis1b"
+            android:exported="false" />
+        <activity
+            android:name=".Artis5hp"
+            android:exported="false" />
+        <activity
+            android:name=".Artis4hp"
+            android:exported="false" />
+        <activity
+            android:name=".Artis3hp"
+            android:exported="false" />
+        <activity
+            android:name=".Artis2hp"
+            android:exported="false" />
+        <activity
+            android:name=".Artis1hp"
+            android:exported="false" />
+        <activity
+            android:name=".Artisbachata"
+            android:exported="false" />
+        <activity
+            android:name=".Artiselectro"
+            android:exported="false" />
+        <activity
+            android:name=".Artisregueton"
+            android:exported="false" />
+        <activity
+            android:name=".Artissalsa"
+            android:exported="false" />
+        <activity
+            android:name=".Artishiphop"
+            android:exported="false" />
+        <activity
+            android:name=".Bachata"
+            android:exported="false" />
+        <activity
+            android:name=".Electro"
+            android:exported="false" />
+        <activity
+            android:name=".Regueton"
+            android:exported="false" />
+        <activity
+            android:name=".Hiphop"
+            android:exported="false" />
+        <activity
+            android:name=".Salsas"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
